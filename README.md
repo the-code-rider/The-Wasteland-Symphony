@@ -1,4 +1,4 @@
-# The Wasteland Symphony
+# The Wasteland Symphony ([Listen Here](https://the-code-rider.github.io/The-Wasteland-Symphony/))
 
 > 4 track music EP brought to life by the shared labor of human creativity, and Artificial Intelligence.
 ![brewing](artwork/The%20Wasteland%20Symphony.gif)
