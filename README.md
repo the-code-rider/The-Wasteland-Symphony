@@ -1,17 +1,12 @@
 # The Wasteland Symphony ([Listen Here](https://the-code-rider.github.io/The-Wasteland-Symphony/))
 
 > 4 track music EP brought to life by the shared labor of human creativity, and Artificial Intelligence.
-![brewing](artwork/The%20Wasteland%20Symphony.gif)
 
 # Track Listing
 1. **Brewing**
-![brewing](./artwork/The%20Brewing.png)
-2. Storm Inside
-![storm inside](artwork/Storm%20Inside.png)
+2. **Storm Inside**
 3. **Barren Hope**
-![barren hope](artwork/Barren%20Hope.png)
 4. **Fall Of Titans**
-![fall of titans](artwork/Fall%20Of%20Titans.png)
 
 # AI 
 
