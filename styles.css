@@ -71,3 +71,16 @@ h1 {
     font-style: italic;
     font-family: 'Orbitron', sans-serif; /* Change to a metallic-style font */
 }
+
+.social-icons {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.icon-link {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 24px;
+}
