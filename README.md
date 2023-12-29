@@ -5,7 +5,7 @@
 
 # Track Listing
 1. **Brewing**
-![brewing](artwork/The%20Brewing.png)
+![brewing](./artwork/The%20Brewing.png)
 2. Storm Inside
 ![storm inside](artwork/Storm%20Inside.png)
 3. **Barren Hope**
